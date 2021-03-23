@@ -1,3 +1,1 @@
-## Primeiro Repositório no Github, oficial!
-
-Nosso primeiro versionamento.
+Primeiro projeto utilizando Ruby on Rails, baseando-se no curso "Ruby on Rails na Prática"
